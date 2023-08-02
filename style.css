@@ -1,0 +1,18 @@
+body {
+  width: 100%;
+  background-color: rgb(40,40,40);
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.g1 {
+  /** TEXT GRADIENT */ color: #a3b005; background-image: -webkit-linear-gradient(0deg, #a3b005 0%, #fb506f 50%, #a8fb73 100%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent;
+}
+
+.g2 {
+  background: #D0D0F0;
+  background: linear-gradient(to right, #D0D0F0 0%, #CFA0A0 94%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
