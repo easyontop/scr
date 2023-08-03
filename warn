@@ -21,11 +21,8 @@
     </div>
   </nav>
   <br><br>
-  <h1 class="g1"><strong><b>Good News!</b></strong></h1><br>
-  <h3 class="g2">Sonicware is <b class="g1">back</b>!</h3><br><br>
-  <button class="btn btn-success g2" id="cpys" onclick="cpys()">Copy Script</button><br>
-  <button class="btn btn-danger g1" onclick="location.href = '/warn'">READ THIS BEFORE USING THIS SCRIPT</button>
-  <script src="script.js"></script>
+  <h1 class="g1"><strong><b>WARNINGS!</b></strong></h1><br>
+  <h3 class="g2">1. Do NOT try to bypass the wl system to get private commands. <br>Always remember, exploits are client-sided. Others using the script online won't be affected.<br><br>2. Do NOT copy anything I developed. This is not your project. Make your own if you want.</h3>
 </body>
 
 </html>
